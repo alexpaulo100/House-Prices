@@ -62,7 +62,7 @@ Para começar a trabalhar com o projeto localmente, siga os passos abaixo:
 
 2. **Crie e ative um ambiente virtual (opcional, mas recomendado):**
 
-``python3 -m venv .venv
-source .venv/bin/activate  # Para sistemas Unix
-.\.venv\Scripts\activate   # Para Windows
+   ```python3 -m venv .venv
+     source .venv/bin/activate  # Para sistemas Unix
+    .\.venv\Scripts\activate   # Para Windows
 
